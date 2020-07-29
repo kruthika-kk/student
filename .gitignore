@@ -1,4 +1,7 @@
-
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
 !**/src/test/**/target/
 
 ### STS ###
@@ -18,10 +21,6 @@
 *.iml
 *.ipr
 *.settings
-.project
-.mvn*
-.HELP
-.classpaths
 
 ### NetBeans ###
 /nbproject/private/
